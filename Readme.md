@@ -3,6 +3,8 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lua-t)](https://github.com/lua-t/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://respondecodigosblog.wordpress.com/wp-content/uploads/2017/08/c.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
