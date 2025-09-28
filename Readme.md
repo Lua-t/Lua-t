@@ -2,6 +2,7 @@
 
 - 📝 Studying: Embedded Systems and Back-End
 - 👩🏽Pronouns: She/Her
+- 🏫 College: Undergraduate in Energy Engineering at the University of Brasília
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lua-t)](https://github.com/lua-t/github-readme-stats)
 <div style="display: inline_block"><br>
